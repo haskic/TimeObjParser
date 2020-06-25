@@ -1,4 +1,4 @@
 
-### WARNING: if this don't work u should intstall moment.js Lib 
+### WARNING: if this don't working u should install moment.js Lib 
 * for example 
 `npm install moment --save`   
